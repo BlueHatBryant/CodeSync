@@ -1,4 +1,5 @@
 # Ignore log files
+files_to_track.txt
 codesync.py
 updatefile.py
 *.log
