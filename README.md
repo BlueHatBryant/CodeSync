@@ -17,7 +17,7 @@
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/CodeSync.git  
+   git clone https://github.com/bluehatbryant/CodeSync.git  
    cd CodeSync  
    ```  
 2. Install dependencies:  
