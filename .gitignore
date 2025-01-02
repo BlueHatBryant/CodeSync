@@ -1,4 +1,5 @@
 # Ignore log files
+updatefile.py
 *.log
 logging.txt
 
