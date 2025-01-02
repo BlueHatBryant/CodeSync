@@ -14,17 +14,6 @@
 3. **Development Workflows**: Simplify repetitive tasks like committing and pushing changes.  
 4. **Prototyping**: Use as a foundation for more complex automation projects.  
 
-## Installation  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/bluehatbryant/CodeSync.git  
-   cd CodeSync  
-   ```  
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
 ## Usage  
 Create a configuration file (`config.json`) in the project directory to define your file sync rules:  
 ```json  
