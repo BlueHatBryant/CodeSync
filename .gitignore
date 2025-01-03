@@ -1,9 +1,9 @@
 # Ignore log files
+logging.txt
 files_to_track.txt
 codesync.py
 updatefile.py
 *.log
-logging.txt
 
 # Ignore Python bytecode
 __pycache__/
